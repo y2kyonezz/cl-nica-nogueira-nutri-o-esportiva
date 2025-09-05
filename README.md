@@ -1,2 +1,2 @@
-# cl-nica-nogueira-nutri-o-esportiva
+# clinica-nogueira-nutricao-esportiva
 Meu primeiro repositório 
